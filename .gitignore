@@ -1,0 +1,12 @@
+# Based on https://github.com/github/gitignore/blob/master/Python.gitignore
+# with a bunch of stuff that I don't think we have removed
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
