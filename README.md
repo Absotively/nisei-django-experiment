@@ -8,9 +8,11 @@ This is my very rough, very incomplete experiment in making a multilingual djang
         cd somedirectory
 
     Then activate it. On bash:
+    
         source bin/activate
 
     Or on Windows, in cmd.exe:
+    
         .\Scripts\activate.bat
 
     See [the documentation](https://docs.python.org/3/library/venv.html) for other shells.
